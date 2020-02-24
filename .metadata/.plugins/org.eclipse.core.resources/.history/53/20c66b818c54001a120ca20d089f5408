@@ -1,0 +1,28 @@
+package sample;
+
+public class Products {
+	
+	Products Products(String pName) {
+		if(pName.equalsIgnoreCase("human"))
+			return new Human();
+		return new Machine();
+			
+	}
+
+}
+
+class Human extends Products{
+	
+	Human() {
+		
+	}
+	
+} 
+
+class Machine extends Products{
+	
+	Machine() {
+		
+	}
+	
+} 

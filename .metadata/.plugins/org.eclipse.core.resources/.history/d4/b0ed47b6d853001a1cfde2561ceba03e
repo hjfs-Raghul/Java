@@ -1,0 +1,25 @@
+package sample;
+
+class ImplementationClass implements FunctionalInterfaceDemo{
+	@Override
+	public void absFunc() {
+		System.out.println("Abstract Method");
+	}
+	
+	@Override
+	public void defFunc() {
+		System.out.println("Default Overridden Method");
+	}
+	
+	FunctionalInterfaceDemo lambda = () -> {System.out.println("Abstract Lambda");};
+}
+
+public class Demo implements FunctionalInterfaceDemo{
+
+	@Override
+	public void absFunc() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+} 

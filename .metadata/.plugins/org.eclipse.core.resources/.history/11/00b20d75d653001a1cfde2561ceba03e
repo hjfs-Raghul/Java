@@ -1,0 +1,15 @@
+package sample;
+
+public class ImplementationClass implements FunctionalInterfaceDemo{
+	@Override
+	public void absFunc() {
+		System.out.println("Abstract Method");
+	}
+	
+	@Override
+	public void defFunc() {
+		System.out.println("Default Overridden Method");
+	}
+	
+
+}

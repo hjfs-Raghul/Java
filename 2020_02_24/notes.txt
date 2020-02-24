@@ -1,0 +1,16 @@
+PL-SQL
+ 
+	Block : 
+	
+	[declaration]	
+	BEGIN
+      		stmt ;
+	[exception]
+ 	END;
+
+	Types of Block
+		Anonymous - without name
+		Procedure - returns nothing
+		Function - returns value
+
+	

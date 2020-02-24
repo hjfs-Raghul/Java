@@ -1,0 +1,6 @@
+
+public class StaticBlockInts {
+	
+	//create private static class instance
+		private static EagerInts instObj ;
+}

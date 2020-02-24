@@ -1,0 +1,16 @@
+
+public class SingleTon {
+	//one object per JVM(system to run) instance
+	
+	//create private static final class instance
+	private static final SingleTon instObj = new SingleTon();
+	//private -> so cannot be accessible outside , cannot be instantiated
+	private String value = "value";
+	private SingleTon() {
+		//prevents creating object from other class
+	}
+	public static SingleTon getInstance() {
+		return instObj;
+	}
+
+}

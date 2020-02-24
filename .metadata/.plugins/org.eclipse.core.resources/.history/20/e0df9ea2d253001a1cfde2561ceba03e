@@ -1,0 +1,9 @@
+package sample;
+
+public class ImplementationClass implements FunctionalInterfaceDemo{
+	@Override
+	public void absFunc() {
+		
+	}
+
+}

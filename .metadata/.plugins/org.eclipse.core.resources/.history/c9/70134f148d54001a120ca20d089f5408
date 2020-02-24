@@ -1,0 +1,22 @@
+package sample;
+
+public class Factory implements Attributes{
+	
+	public Products CreateObject() {
+		Products Products(String pName) {
+			if(pName.equalsIgnoreCase("human"))
+				return new Human();
+			return new Machine();
+		}
+	}
+	private String name;
+	private double height , weight;
+	public void setName(String name) {
+		
+	}
+	public void setHeight(double h) {}
+	public void setWeight(double w) {}
+	
+	
+
+}

@@ -1,0 +1,8 @@
+package sample;
+
+public interface FunctionalInterfaceDemo {
+	public abstract void absFunc();// {
+		//System.out.println("Abstrat Function");
+	//}
+	public static void statFunc();
+}

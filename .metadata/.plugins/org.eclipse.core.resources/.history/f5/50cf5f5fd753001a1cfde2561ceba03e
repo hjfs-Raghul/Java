@@ -1,0 +1,17 @@
+package sample;
+
+public class TestSample {
+public static void main(String args[])
+{
+	//System.out.println("hello world");
+	FunctionalInterfaceDemo.statFunc();
+	ImplementationClass obj = new ImplementationClass();
+	obj.absFunc();
+	obj.defFunc();
+}
+	static void callLambdaFn() {
+		System.out.println(() ->  {System.out.println("Abstract Lambda");};
+	}
+	
+}
+}

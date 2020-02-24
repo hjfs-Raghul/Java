@@ -1,0 +1,33 @@
+
+public class TestSingleTon {
+	public static void main(String args[])
+	{
+		//ERROR - > SingleTon obj = new SingleTon();
+		SingleTon obj = SingleTon.getInstance();
+		SingleTon obj2 = SingleTon.getInstance();
+		System.out.println(obj == obj2);
+		//String checking
+		String val = "1";
+		String val1 = "1";
+		
+		if(val==val1) {
+			System.out.println("same address");
+			System.out.println(obj2.hashCode());
+			System.out.println(obj.hashCode());
+		}
+			
+		else {
+			System.out.println("diff address");
+			System.out.println(val.hashCode());
+			System.out.println(val1.hashCode());
+		}
+			
+		
+		obj.setValue("1");
+		System.out.println(obj.getValue());
+		System.out.println(obj2.getValue());
+		
+		
+	}
+
+}

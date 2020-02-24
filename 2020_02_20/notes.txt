@@ -1,0 +1,4 @@
+Default method
+Static method
+Functional Interface
+Lambda Expression

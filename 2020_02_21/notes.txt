@@ -1,0 +1,48 @@
+Design Patterns :
+	
+	pattern or method or way to design an application or system.
+	solution to commonly occuring problem.
+
+	1. SingleTon design pattern
+		
+		only one object for the entire application. eg.,Database connectivity object
+		SingleTon class is designed and constrained in a way that it allows to create only one instance.
+
+		1.1. Eager Intialisationed SingleTon
+			
+			private static final SingleTon class instance
+			private constructor to avoid instialisation
+			function to get the SingleTon class instance
+			as soon as the SingleTon class is loaded , the instance is created.
+	
+		1.2. Static Block Intialisation
+		
+			SingleTon class instance is created inside static block.
+
+		1.3. Lazy Intialised SingleTon
+	
+			Instance is created only when getInstance is called.
+			There is a chance for creation of two instances in multi threaded environment.
+
+		1.4. Thread Safe SingleTon
+		
+			Synchronized Lazy Intialisation	
+
+	2. Factory Design Pattern
+
+		Object cration logic is hidden from the user.
+		Object creation is done in the seperate.
+
+
+
+Stream API is new feature in Java 8
+java.util.Stream
+
+	stream - sequence of bytes transferring from source to destination
+	FileStream - for files , Streams API - for all types
+
+	New API in Java 8 , it helps in sequential and parallel aggregate operations.
+	supports functional style operations of streams of elements on collections
+	
+
+	

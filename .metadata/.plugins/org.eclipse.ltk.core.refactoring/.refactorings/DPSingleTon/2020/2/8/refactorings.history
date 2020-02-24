@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;SingleTon&apos; to &apos;EagerInts&apos;&#x0D;&#x0A;- Original project: &apos;DPSingleTon&apos;&#x0D;&#x0A;- Original element: &apos;SingleTon&apos;&#x0D;&#x0A;- Renamed element: &apos;EagerInts&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;SingleTon&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{SingleTon.java[SingleTon" matchStrategy="1" name="EagerInts" qualified="false" references="true" similarDeclarations="false" stamp="1582266133469" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,13 @@
+package sample;
+
+public class RunnableDemo {
+	public static void main(String args[]) {
+	
+		Runnable threadobj = ()->{System.out.print("HIII");};
+		new Thread(threadobj).start();
+		
+	}
+	
+	
+
+}

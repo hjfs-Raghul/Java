@@ -1,0 +1,13 @@
+package sample;
+
+public class RunnableDemo {
+	public static void main() {
+	
+		Runnable threadobj = ()->{};
+		new Thread(threadobj).start();
+		
+	}
+	
+	
+
+}

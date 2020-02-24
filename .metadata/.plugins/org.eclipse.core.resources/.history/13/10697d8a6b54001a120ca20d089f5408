@@ -1,0 +1,15 @@
+
+public class TestSingleTon {
+	public static void main(String args[])
+	{
+		//ERROR - > SingleTon obj = new SingleTon();
+		SingleTon obj = SingleTon.getInstance();
+		SingleTon obj2 = SingleTon.getInstance();
+		System.out.println(obj == obj2);
+		
+		obj
+		
+		
+	}
+
+}

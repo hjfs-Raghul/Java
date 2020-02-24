@@ -1,0 +1,17 @@
+
+public class ThreadSafeInts {
+	
+	//create private static class instance
+		private static ThreadSafeInts instObj;
+		
+		private ThreadSafeInts() {
+			//prevents creating object from other class
+		}
+		
+		public synchronized static LazyInts getInstance() {
+			if (instObj == null)
+				instObj = new ThreadSafeInts();
+			return instObj;
+		}
+
+}

@@ -1,0 +1,51 @@
+package sample;
+
+
+public class Products implements Attributes{
+	private String name;
+	private double height , weight;
+	
+	Products Products(String pName) {
+		if(pName.equalsIgnoreCase("human"))
+			return new Human();
+		return new Machine();
+	}
+
+	@Override
+	public void setName(String name) {
+		this.name = name;
+		
+	}
+
+	@Override
+	public void setHeight(double height) {
+		this.height = height;
+		
+	}
+
+	@Override
+	public void setWeight(double weight) {
+		this.weight = weight;
+		
+	}
+
+}
+
+class Human extends Products{
+	
+	Human() {
+		setName("");
+		setHeight(100);
+		setWeight(50);
+		
+	}
+	
+} 
+
+class Machine extends Products{
+	
+	Machine() {
+		
+	}
+	
+} 

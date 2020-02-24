@@ -1,13 +1,2 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="sample.ImplementationClass"/>
-<fullyQualifiedTypeName name="java.lang.FunctionalInterface"/>
-<fullyQualifiedTypeName name="sample.FunctionalInterfaceCustom"/>
-<fullyQualifiedTypeName name="java.lang.Thread"/>
-<fullyQualifiedTypeName name="TestSingleTon"/>
-<fullyQualifiedTypeName name="SingleTon"/>
-<fullyQualifiedTypeName name="sample.Human"/>
-<fullyQualifiedTypeName name="sample.Attributes"/>
-<fullyQualifiedTypeName name="sample.Factory"/>
-<fullyQualifiedTypeName name="java.lang.System"/>
-</qualifiedTypeNameHistroy>
+<qualifiedTypeNameHistroy/>

@@ -13,4 +13,24 @@ PL-SQL
 		Procedure - returns nothing
 		Function - returns value
 
+	Types of variables
+		
+		Host
+		Bind
+		Substitution
+
+	Nested blocks
+	Basic SQL queries
+
+
+GIT bashing
+
+	Git clone <URL>
+	git add <files>
+	git commit -m <msg>
+	git push
+	git status
+	git pull origin master
+	
+
 	

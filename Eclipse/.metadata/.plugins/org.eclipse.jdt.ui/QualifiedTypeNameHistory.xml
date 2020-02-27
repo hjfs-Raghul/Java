@@ -10,4 +10,11 @@
 <fullyQualifiedTypeName name="sample.Attributes"/>
 <fullyQualifiedTypeName name="sample.Factory"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="com.sun.xml.internal.bind.annotation.OverrideAnnotationOf"/>
+<fullyQualifiedTypeName name="java.io.PrintStream"/>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="java.sql.DriverManager"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.sql.Statement"/>
 </qualifiedTypeNameHistroy>

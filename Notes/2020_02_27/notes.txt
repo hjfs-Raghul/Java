@@ -1,0 +1,19 @@
+Servlets
+	server side java programs
+	runs on servlet container(Apache Tomcat)
+	containers manages the lifecycle of servlet
+
+Life Cycle of servlet
+	construct	
+	init
+	service , if no service method , doGet will be called 
+	destroy
+
+JSP
+
+
+Events are certain activities happens at certain actions
+
+
+	
+	

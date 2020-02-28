@@ -1,0 +1,4 @@
+Ways of configuration :
+	xml configuration
+	web and annotation
+	annotation

@@ -1,0 +1,30 @@
+Servlet & JSP
+
+	servlet creation (Servlet Class)
+		
+		doPost
+			method = "post" -> calls doPost method inside the servlet class mentioned in the action attribute
+		doGet
+			method = "get"/by default -> calls doPost method inside the servlet class mentioned in the action attribute
+		service
+			by default , service method will be called first , irrespective of the method attribute,
+			inside the servlet class mentioned in the action attribute
+
+	JDBC :
+		load jdbc.jar into lib folder 
+		load driver
+			Class.forName("<driverName>")
+		create conn object
+		create statement
+		execute sql statement
+	
+Connectivity -> localhost via Tomcat
+Since we are using oracle db , we use ojdbc.jar
+
+Session Management :
+	
+	
+
+
+
+	

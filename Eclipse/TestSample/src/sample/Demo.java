@@ -1,31 +1,16 @@
 package sample;
 
-class Demo1 implements FunctionalInterfaceDemo{
-	@Override
-	public void absFunc() {
-		FunctionalInterfaceDemo lamb = ()->{System.out.println("Abstract Method");};
-		System.out.println(lamb);
-		//new Thread(lamb).start();
-	}
-	
-	@Override
-	public void defFunc() {
-		System.out.println("Default Overridden Method");
-	}
-	
-	FunctionalInterfaceDemo lambda = () -> {System.out.println("Abstract Lambda");};
-}
-
-public class Demo implements FunctionalInterfaceDemo{
-
-	@Override
-	public void absFunc() {
-		
-		
-	}
+public class Demo {
 	public static void main(String args[]) {
-		new Demo1().absFunc();
-		//System.out.println(lamb);
+		boolean flag = true;
+		for(int i = 0;i<100;i++)
+			{
+			if(flag)
+				System.out.println("Even ->"+i);
+			else
+				System.out.println("Odd ->"+i);
+			flag = !flag;
+			
+			}
 	}
-	
 } 

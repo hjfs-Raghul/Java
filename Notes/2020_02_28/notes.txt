@@ -2,3 +2,11 @@ Ways of configuration :
 	xml configuration
 	web and annotation
 	annotation
+
+Event Listeners :
+	
+	They should be registered either in web.xml or through @WebListener annotation
+
+EJB :
+	Enterprise Java Beans
+	Buisness Logic , Transaction Management , Logging , Security etc..,

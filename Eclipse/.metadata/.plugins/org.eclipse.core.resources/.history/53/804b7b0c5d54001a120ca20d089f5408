@@ -1,9 +1,0 @@
-package sample;
-
-public class RunnableDemo {
-	
-	Runnable threadobj = ()->{};
-	new Thread(threadobj).start();
-	
-
-}

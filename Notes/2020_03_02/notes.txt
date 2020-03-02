@@ -1,0 +1,43 @@
+Spring Framework :
+	
+	light weight framework
+	loosely coupled systems - not much dependency
+	open source
+	huge community
+	builds enterprise application
+	integrates with other systems well
+	follows design patterns implicitly
+	numerous modules implicitly like core , MVC , Spring Rest 
+	interface driven development
+
+Spring Core module :
+	
+	core container
+		beans - pojo class
+		core - dependecy injection and inversion of control
+		context
+		EL
+	
+	First Spring Application
+		use core container for IOC(Inversion of control) and DI(Dependency Injection)
+
+		download spring framework : 
+		add spring libs to jar in project
+		create spring bean definition(applicationcontext.xml)
+		load applicationcontext xml file
+	
+	
+	
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+        https://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<!-- Oracle Repository -->
+	<bean name="productRepository" class="example.repository.OracleRepository">
+	</bean>
+	<!-- MySQL Repository -->
+	<!-- <bean name="productRepository" class="example.repository.MySqlDBRepository"> 
+		</bean> -->
+</beans>

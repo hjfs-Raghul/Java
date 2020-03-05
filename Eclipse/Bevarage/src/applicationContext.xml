@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.springframework.org/schema/beans">
+
+	<!-- INGREDIENTS START -->
+
+	<bean class="example.ingredients.Milk" name="milk" />
+	<bean class="example.ingredients.JuiceSyrup" name="syrup" />
+	<bean class="example.ingredients.Sugar" name="sugar" />
+	<bean class="example.ingredients.Water" name="water" />
+
+	<!-- INGREDIENTS END -->
+
+	<!-- PRODUCTS START -->
+
+	<bean class="example.products.Coffee" name="coffee">
+		<constructor-arg ref="milk" index="0" />
+		<constructor-arg ref="sugar" index="1" />
+		<constructor-arg ref="water" index="2" />
+	</bean>
+	<!-- <bean class="example.products.Juice" name="juice">
+		<constructor-arg ref="syrup" index="0" />
+		<constructor-arg ref="water" index="1" />
+	</bean>-->
+
+	<!-- PRODUCTS END -->
+
+	<!-- SERVICE START -->
+	<!-- SERVICE END -->
+</beans>

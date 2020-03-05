@@ -20,8 +20,17 @@
 <fullyQualifiedTypeName name="javax.servlet.annotation.WebListener"/>
 <fullyQualifiedTypeName name="ProductService"/>
 <fullyQualifiedTypeName name="java.lang.Override"/>
-<fullyQualifiedTypeName name="java.util.List"/>
 <fullyQualifiedTypeName name="example.model.Products"/>
+<fullyQualifiedTypeName name="example.repository.ProductRepository"/>
 <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
 <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+<fullyQualifiedTypeName name="example.products.Coffee"/>
+<fullyQualifiedTypeName name="example.products.Products"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="example.ingredients.Milk"/>
+<fullyQualifiedTypeName name="example.ingredients.Sugar"/>
+<fullyQualifiedTypeName name="example.ingredients.Water"/>
+<fullyQualifiedTypeName name="example.ingredients.Ingredients"/>
+<fullyQualifiedTypeName name="example.ingredients.IngredientClass"/>
 </qualifiedTypeNameHistroy>

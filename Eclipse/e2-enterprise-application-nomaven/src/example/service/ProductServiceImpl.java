@@ -10,15 +10,21 @@ public class ProductServiceImpl implements ProductService {
 //1. Instantiate the OracleRepository and expose through and interface	@Override
 	ProductRepository productRepository;
 
-	public ProductServiceImpl() {
+	/*public ProductServiceImpl() {
+	 * 
 		// productRepository = new OracleRepository();
 		productRepository = new MySqlDBRepository();
+	}*/
+	
+	public ProductServiceImpl(ProductRepository productRepository) {
+		System.out.println("Dependency Injection");
+		this.productRepository = productRepository;
 	}
 
 	public List<Product> getProducts() {
 
 		// 2. Return the list of products from the repository
-		return productRepository.getProducts();
+		return this.productRepository.getProducts();
 	}
 
 }

@@ -10,6 +10,7 @@ public class Coffee implements Products {
 
 	//IngredientsClass[] ingList;
 	IngredientClass ingList[];
+	Ingredients if_ingList[];
 	Milk milk;
 	Sugar sugar;
 	Water water;

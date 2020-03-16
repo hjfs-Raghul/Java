@@ -2309,3 +2309,336 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 2020-03-11 12:41:29,606 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2020-03-11 12:41:29,606 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2020-03-11 12:41:29,606 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-11 13:02:48,126 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.demo:springboot-sample:0.0.1-SNAPSHOT @ C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\pom.xml.
+2020-03-11 13:02:51,186 [Worker-26] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/oracle/ojdbc7/12.1.0.2/ojdbc7-12.1.0.2.pom
+2020-03-11 13:02:51,202 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc7:jar:12.1.0.2 is missing, no dependency information available
+2020-03-11 13:02:52,715 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 13:02:52,723 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 13:02:52,725 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 13:02:52,725 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 13:02:52,725 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-11 13:02:55,329 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc7:jar:12.1.0.2 is missing, no dependency information available
+2020-03-11 13:02:56,286 [Worker-26] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.demo:springboot-sample:0.0.1-SNAPSHOT @ C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\pom.xml.
+2020-03-11 13:02:56,952 [Worker-26] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc7:jar:12.1.0.2 is missing, no dependency information available
+2020-03-11 13:02:58,290 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 13:02:58,292 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-11 13:02:58,312 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 13:02:58,322 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 13:02:58,322 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-11 13:05:09,171 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc7:jar:12.1.0.2 is missing, no dependency information available
+2020-03-11 13:05:09,208 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 13:05:09,210 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-11 13:05:09,214 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 13:05:09,218 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 13:05:09,218 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-11 13:05:56,771 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 13:05:56,771 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-11 13:05:56,780 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 13:05:56,783 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 13:05:56,783 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-11 13:06:53,145 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 13:06:53,146 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-11 13:06:53,149 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 13:06:53,153 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 13:06:53,154 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-11 13:07:28,336 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 13:07:28,337 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-11 13:07:28,340 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 13:07:28,345 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 13:07:28,345 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-11 13:08:16,058 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 13:08:16,058 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-11 13:08:16,061 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 13:08:16,063 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 13:08:16,064 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-11 13:09:11,366 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 13:09:11,367 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-11 13:09:11,368 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 13:09:11,371 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 13:09:11,371 [Worker-36] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-11 13:11:47,442 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 13:11:47,442 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-11 13:11:47,444 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 13:11:47,447 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 13:11:47,447 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-11 13:14:31,323 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 13:14:31,323 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-11 13:14:31,325 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 13:14:31,328 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 13:14:31,328 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-11 13:14:44,162 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 13:14:44,162 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-11 13:14:44,164 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 13:14:44,166 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 13:14:44,166 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-11 13:14:51,928 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 13:14:51,929 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-11 13:14:51,931 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 13:14:51,935 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 13:14:51,935 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-11 13:16:29,179 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 13:16:29,179 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-11 13:16:29,179 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 13:16:29,179 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 13:16:29,179 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-11 15:08:11,804 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 15:08:11,804 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-11 15:08:11,819 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 15:08:11,819 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 15:08:11,819 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-11 15:08:25,466 [Worker-51] WARN  o.e.r.models.ModelRepository - Failed to download org.eclipse.recommenders:index::zip:0.0.0
+org.eclipse.aether.resolution.ArtifactResolutionException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/oxygen/)
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:453) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifacts(DefaultArtifactResolver.java:255) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolveArtifact(DefaultArtifactResolver.java:232) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultRepositorySystem.resolveArtifact(DefaultRepositorySystem.java:303) ~[na:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolveInternal(ModelRepository.java:193) [org.eclipse.recommenders.models_2.4.9.v20170613-1301.jar:na]
+	at org.eclipse.recommenders.models.ModelRepository.resolve(ModelRepository.java:172) [org.eclipse.recommenders.models_2.4.9.v20170613-1301.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.EclipseModelRepository.resolve(EclipseModelRepository.java:168) [org.eclipse.recommenders.models.rcp_2.4.9.v20170613-1301.jar:na]
+	at org.eclipse.recommenders.internal.models.rcp.DownloadModelArchiveJob.run(DownloadModelArchiveJob.java:76) [org.eclipse.recommenders.models.rcp_2.4.9.v20170613-1301.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:56) [org.eclipse.core.jobs_3.9.0.v20170322-0013.jar:na]
+Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find artifact org.eclipse.recommenders:index:zip:0.0.0-SNAPSHOT in models (http://download.eclipse.org/recommenders/models/oxygen/)
+	at org.eclipse.aether.connector.basic.ArtifactTransportListener.transferFailed(ArtifactTransportListener.java:48) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$TaskRunner.run(BasicRepositoryConnector.java:364) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.util.concurrency.RunnableErrorForwarder$1.run(RunnableErrorForwarder.java:76) ~[na:na]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector$DirectExecutor.execute(BasicRepositoryConnector.java:590) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.connector.basic.BasicRepositoryConnector.get(BasicRepositoryConnector.java:258) ~[org.apache.maven.resolver.connector.basic_1.0.3.v20170405-0725.jar:1.0.3]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.performDownloads(DefaultArtifactResolver.java:529) ~[na:na]
+	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:430) ~[na:na]
+	... 8 common frames omitted
+2020-03-11 15:11:57,312 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 15:11:57,312 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-11 15:11:57,312 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 15:11:57,312 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 15:11:57,312 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-11 15:14:00,917 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 15:14:00,917 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-11 15:14:00,917 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 15:14:00,917 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 15:14:00,917 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-11 15:14:22,065 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 15:14:22,065 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-11 15:14:22,065 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 15:14:22,081 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 15:14:22,081 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-11 15:15:22,317 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 15:15:22,317 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-11 15:15:22,317 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 15:15:22,317 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 15:15:22,317 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-11 15:15:32,708 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 15:15:32,708 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-11 15:15:32,708 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 15:15:32,708 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 15:15:32,708 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-11 15:22:31,929 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 15:22:31,929 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-11 15:22:31,945 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 15:22:31,945 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 15:22:31,945 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-11 15:31:01,181 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 15:31:01,183 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-11 15:31:01,183 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 15:31:01,183 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 15:31:01,183 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-11 15:36:33,908 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 15:36:33,908 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-11 15:36:33,924 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 15:36:33,924 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 15:36:33,924 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-11 15:39:01,896 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 15:39:01,896 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-11 15:39:01,896 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 15:39:01,896 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 15:39:01,896 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-11 15:39:32,328 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 15:39:32,328 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-11 15:39:32,328 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 15:39:32,344 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 15:39:32,344 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-11 15:39:46,982 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 15:39:46,982 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-11 15:39:46,982 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 15:39:46,982 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 15:39:46,982 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-11 15:41:02,216 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 15:41:02,216 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-11 15:41:02,216 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 15:41:02,216 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 15:41:02,216 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-11 15:42:55,092 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 15:42:55,092 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-11 15:42:55,092 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 15:42:55,092 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 15:42:55,092 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-11 15:44:28,673 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 15:44:28,677 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-11 15:44:28,677 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 15:44:28,677 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 15:44:28,677 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-11 15:47:27,506 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 15:47:27,506 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-11 15:47:27,522 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 15:47:27,522 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 15:47:27,522 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-11 15:51:41,348 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 15:51:41,348 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-11 15:51:41,348 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 15:51:41,348 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 15:51:41,348 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-11 15:53:25,490 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 15:53:25,490 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-11 15:53:25,490 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 15:53:25,490 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 15:53:25,490 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-11 15:54:27,550 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 15:54:27,550 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-11 15:54:27,566 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 15:54:27,566 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 15:54:27,566 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-11 15:55:06,512 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 15:55:06,512 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-11 15:55:06,512 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 15:55:06,512 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 15:55:06,512 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-11 15:57:25,926 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 15:57:25,942 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-11 15:57:25,942 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 15:57:25,942 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 15:57:25,942 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-11 16:05:34,781 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 16:05:34,781 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-11 16:05:34,789 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 16:05:34,789 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 16:05:34,789 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-11 16:17:59,116 [Worker-72] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.demo:springboot-sample:0.0.1-SNAPSHOT @ C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\pom.xml.
+2020-03-11 16:18:04,305 [Worker-72] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/oracle/ojdbc8/12.2.0.1/ojdbc8-12.2.0.1.pom
+2020-03-11 16:18:04,346 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc8:jar:12.2.0.1 is missing, no dependency information available
+2020-03-11 16:18:05,422 [Worker-72] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/oracle/ojdbc8/12.2.0.1/ojdbc8-12.2.0.1.jar
+2020-03-11 16:18:09,319 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 16:18:09,336 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 16:18:09,336 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 16:18:09,338 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 16:18:09,339 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-11 16:18:09,989 [Worker-83] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-03-11 16:18:11,240 [Worker-83] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.demo:springboot-sample:0.0.1-SNAPSHOT @ C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\pom.xml.
+2020-03-11 16:18:12,097 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc8:jar:12.2.0.1 is missing, no dependency information available
+2020-03-11 16:18:14,103 [Worker-83] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-sample/src/main/java
+2020-03-11 16:18:14,104 [Worker-83] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-sample/src/main/resources
+2020-03-11 16:18:14,105 [Worker-83] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-sample/src/main/resources
+2020-03-11 16:18:14,106 [Worker-83] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-sample/src/test/java
+2020-03-11 16:18:15,262 [Worker-83] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2020-03-11 16:18:20,909 [Worker-85] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc8:jar:12.2.0.1 is missing, no dependency information available
+2020-03-11 16:18:21,511 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 16:18:21,512 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-11 16:18:21,843 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 16:18:21,846 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 16:18:21,846 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-11 16:19:57,095 [Worker-72] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-03-11 16:20:05,500 [Worker-72] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.demo:springboot-sample:0.0.1-SNAPSHOT @ C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\pom.xml.
+2020-03-11 16:20:08,114 [Worker-72] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/oracle/ojdbc8/12.2.0.1/ojdbc8-12.2.0.1.pom
+2020-03-11 16:20:08,116 [Worker-72] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc8:jar:12.2.0.1 is missing, no dependency information available
+2020-03-11 16:20:09,885 [Worker-72] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-sample/src/main/java
+2020-03-11 16:20:09,885 [Worker-72] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-sample/src/main/resources
+2020-03-11 16:20:09,885 [Worker-72] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-sample/src/main/resources
+2020-03-11 16:20:09,886 [Worker-72] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-sample/src/test/java
+2020-03-11 16:20:10,264 [Worker-72] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 13 sec
+2020-03-11 16:20:12,128 [Worker-83] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc8:jar:12.2.0.1 is missing, no dependency information available
+2020-03-11 16:20:12,204 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 16:20:12,205 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-11 16:20:12,234 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 16:20:12,237 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 16:20:12,237 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-11 16:20:24,180 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 16:20:24,183 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-11 16:20:24,186 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 16:20:24,188 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 16:20:24,188 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-11 16:34:55,013 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2020-03-11 16:35:19,342 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle:ojdbc8:jar:12.2.0.1 is missing, no dependency information available
+2020-03-11 16:35:22,302 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 16:35:22,308 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-11 16:35:22,322 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 16:35:22,327 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 16:35:22,327 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-11 16:54:11,145 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 16:54:11,265 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-11 16:54:11,275 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 16:54:11,278 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 16:54:11,278 [Worker-40] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-11 17:25:33,346 [Worker-49] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.demo:springboot-sample:0.0.1-SNAPSHOT @ C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\pom.xml.
+2020-03-11 17:25:46,499 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/oracle/jdbc/ojdbc8/12.2.0.1/ojdbc8-12.2.0.1.pom
+2020-03-11 17:25:46,502 [Worker-49] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle.jdbc:ojdbc8:jar:12.2.0.1 is missing, no dependency information available
+2020-03-11 17:25:47,707 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/oracle/jdbc/ojdbc8/12.2.0.1/ojdbc8-12.2.0.1.jar
+2020-03-11 17:25:52,253 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 17:25:52,262 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 17:25:52,263 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 17:25:52,266 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 17:25:52,267 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-11 17:26:03,818 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle.jdbc:ojdbc8:jar:12.2.0.1 is missing, no dependency information available
+2020-03-11 17:26:45,095 [Worker-47] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-03-11 17:26:46,202 [Worker-47] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.demo:springboot-sample:0.0.1-SNAPSHOT @ C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\pom.xml.
+2020-03-11 17:26:46,784 [Worker-47] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle.jdbc:ojdbc8:jar:12.2.0.1 is missing, no dependency information available
+2020-03-11 17:26:47,894 [Worker-47] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-sample/src/main/java
+2020-03-11 17:26:47,895 [Worker-47] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-sample/src/main/resources
+2020-03-11 17:26:47,896 [Worker-47] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-sample/src/main/resources
+2020-03-11 17:26:47,897 [Worker-47] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-sample/src/test/java
+2020-03-11 17:26:49,806 [Worker-47] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2020-03-11 17:26:51,940 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle.jdbc:ojdbc8:jar:12.2.0.1 is missing, no dependency information available
+2020-03-11 17:26:52,111 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 17:26:52,112 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-11 17:26:52,136 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-11 17:26:52,140 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-11 17:26:52,140 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-12 09:24:05,762 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2020-03-12 09:25:14,402 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle.jdbc:ojdbc8:jar:12.2.0.1 is missing, no dependency information available
+2020-03-12 09:26:59,985 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.demo:springboot-sample:0.0.1-SNAPSHOT @ C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\pom.xml.
+2020-03-12 09:27:00,518 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle.jdbc:ojdbc8:jar:12.2.0.1 is missing, no dependency information available
+2020-03-12 09:27:02,883 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-12 09:27:02,890 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-12 09:27:02,911 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-12 09:27:02,915 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-12 09:27:02,916 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-12 09:27:13,157 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle.jdbc:ojdbc8:jar:12.2.0.1 is missing, no dependency information available
+2020-03-12 09:27:13,586 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.demo:springboot-sample:0.0.1-SNAPSHOT @ C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\pom.xml.
+2020-03-12 09:27:14,333 [Worker-4] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle.jdbc:ojdbc8:jar:12.2.0.1 is missing, no dependency information available
+2020-03-12 09:27:15,444 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-12 09:27:15,448 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-12 09:27:15,449 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-12 09:27:15,452 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-12 09:27:15,453 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-12 09:31:46,914 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-03-12 09:31:50,344 [Worker-23] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.demo:springboot-sample:0.0.1-SNAPSHOT @ C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\pom.xml.
+2020-03-12 09:31:52,608 [Worker-23] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle.jdbc:ojdbc8:jar:12.2.0.1 is missing, no dependency information available
+2020-03-12 09:31:54,592 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-sample/src/main/java
+2020-03-12 09:31:54,593 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-sample/src/main/resources
+2020-03-12 09:31:54,594 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-sample/src/main/resources
+2020-03-12 09:31:54,595 [Worker-23] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-sample/src/test/java
+2020-03-12 09:31:55,242 [Worker-23] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 8 sec
+2020-03-12 09:31:56,177 [Worker-22] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle.jdbc:ojdbc8:jar:12.2.0.1 is missing, no dependency information available
+2020-03-12 09:31:56,241 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-12 09:31:56,242 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-12 09:31:56,262 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-12 09:31:56,266 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-12 09:31:56,267 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-12 09:33:01,434 [Worker-24] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2020-03-12 09:33:02,519 [Worker-24] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.demo:springboot-sample:0.0.1-SNAPSHOT @ C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\pom.xml.
+2020-03-12 09:33:05,281 [Worker-24] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/oracle/jdbc/ojdbc8/12.2.0.1/ojdbc8-12.2.0.1.pom
+2020-03-12 09:33:05,285 [Worker-24] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle.jdbc:ojdbc8:jar:12.2.0.1 is missing, no dependency information available
+2020-03-12 09:33:06,239 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-sample/src/main/java
+2020-03-12 09:33:06,239 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-sample/src/main/resources
+2020-03-12 09:33:06,240 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-sample/src/main/resources
+2020-03-12 09:33:06,241 [Worker-24] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-sample/src/test/java
+2020-03-12 09:33:06,627 [Worker-24] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2020-03-12 09:33:08,169 [Worker-30] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.oracle.jdbc:ojdbc8:jar:12.2.0.1 is missing, no dependency information available
+2020-03-12 09:33:08,229 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-12 09:33:08,230 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-12 09:33:08,251 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-12 09:33:08,254 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-12 09:33:08,255 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-12 09:39:13,610 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-12 09:39:13,626 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2020-03-12 09:39:13,629 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2020-03-12 09:39:13,632 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-12 09:39:13,633 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Hvuser\Downloads\springboot-sample\springboot-sample\src\test\resources
+2020-03-12 10:10:43,579 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
